@@ -37,7 +37,7 @@ To assemble the burgers will need something, it's why I created the:
  - An internet connection (Obviously)
 
 ### Process:
- - Clone this repo with `git clone https://github.com/TheFourchette/bmfm.git` or download the zip file
+ - Clone this repo with `git clone https://github.com/TheFourchette/BMFM.git` or download the zip file
 
  - Move the files / directory to your mod folder 📂
 
