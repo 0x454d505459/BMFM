@@ -42,6 +42,8 @@ To assemble the burgers will need something, it's why I created the:
  - Move the files / directory to your mod folder 📂
 
  - Restart the game if needed
+ 
+ You can also use the `Import a github mod`
 
 
 ## Story
