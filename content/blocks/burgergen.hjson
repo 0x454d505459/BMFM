@@ -1,0 +1,22 @@
+type: SingleTypeGenerator
+name: BurgerGenerator200
+description: Magically produces power from burgers.
+size: 2
+hasPower: true
+hasItems: true
+itemDuration: 70
+powerProduction: 15
+consumes: {
+  items: {
+    items: [
+      burger/3
+    ]
+    optional: true
+  }
+}
+requirements: [
+  burger/80
+  silicon/60
+  copper/50
+]
+category: power

@@ -1,0 +1,6 @@
+name: milk
+description: simply milk.
+temperature: 0.9
+viscosity: 0.8
+effect: none
+color: "#ffffff"

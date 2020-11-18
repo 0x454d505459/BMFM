@@ -1,0 +1,9 @@
+{
+	"name": "Burger",
+	"type": "OreBlock",
+	"itemDrop": "burger",
+	"variants": 1,
+	"oreDefault": true,
+	"oreScale": 23.87,
+	"oreThreshold": 0.823
+}

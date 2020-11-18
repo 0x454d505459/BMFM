@@ -1,0 +1,10 @@
+name: BurgerWall
+description: A wall made of burgers. UNBREAKABLE.
+type: Wall
+health: 10000
+size: 2
+requirements: [
+  burger/50
+]
+category: defense
+research: copper-wall
