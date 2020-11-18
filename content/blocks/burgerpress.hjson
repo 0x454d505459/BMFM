@@ -1,0 +1,37 @@
+type: GenericSmelter
+name: Burger Press
+description: Combines all ingredients to make a burger
+liquidCapacity: 20
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+itemCapacity: 100
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+      bread/20
+      salad/20
+      sesame/50
+      steak/4
+      tomato/4
+    ]
+  }
+  liquid: {
+    liquid: milk
+    amount: 1
+  }
+}
+requirements: [
+  lead/50
+  thorium/80
+  copper/50
+]
+category: crafting
+
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: burger/1

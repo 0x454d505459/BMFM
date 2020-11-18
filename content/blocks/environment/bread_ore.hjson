@@ -1,0 +1,6 @@
+{
+	"name": "bread_ore",
+	"type": "OreBlock",
+	"itemDrop": "bread"
+
+}

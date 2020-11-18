@@ -1,0 +1,5 @@
+type: resource
+name: "salad"
+
+cost: 2.5
+color: dcd16b

@@ -1,0 +1,6 @@
+{
+	"name": "tomato",
+	"type": "OreBlock",
+	"itemDrop": "tomato"
+
+}
